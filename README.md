@@ -1,20 +1,20 @@
-# docker-misha
+# misha-dayo
 
 ## Clone
 
 ```sh
-git clone git@github.com:KoyashiroKohaku/docker-misha.git
-cd docker-misha
+git clone https://github.com/KoyashiroKohaku/misha-dayo.git
+cd misha-dayo
 ```
 
 ## Build
 
 ```sh
-$ docker build . -t misha
+$ docker build . -t misha-dayo
 ```
 
 ## Run
 
 ```sh
-$ docker run misha
+$ docker run --rm misha-dayo
 ```
